@@ -1,4 +1,4 @@
-# Creacion de máquinas virtuales con Azure ![](screenshots/K_010.jpg)
+# Creación de máquinas virtuales con Azure ![](screenshots/K_010.jpg)
 
 Es necesario recordar que para crear una máquina virtual en Azure se necesita una cuenta de usuario con una subscripcion a Azure. Para iniciar el proceso de creacion de una máquina virtual se debe acceder al [portal de Azure](https://portal.azure.com/) en el aparartado de ```Máquinas virtuales```.
 ![](screenshots/K.jpg)
