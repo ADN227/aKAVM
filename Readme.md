@@ -5,7 +5,7 @@ Es necesario recordar que para crear una máquina virtual en Azure se necesita u
 
 # Primer máquina virtual con Azure
 ![](screenshots/K_000.jpg)
-Las dos máquinas virtuales que se crearon en este tutorial estan nombradas como ```Máquina virtual deAzure```. Al igual que con otros recursos de Azure, es necesario llenar formularios para crear una máquina virtual.
+Las dos máquinas virtuales que se crearon en este tutorial estan nombradas como ```Máquina virtual de Azure```. Al igual que con otros recursos de Azure, es necesario llenar formularios para crear una máquina virtual.
 
 ## Datos básicos
 En esta sección se deben mencionar los datos básicos para crear una recurso de Azure:
